@@ -1,1 +1,0 @@
-console.log('[SumiSora][Daito][BDRip][01][x264_flac](CE27CB67).sc'.startsWith('[utf8cov]'));
