@@ -1,0 +1,14 @@
+{
+  "name": "ass-to-utf8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lathesky",
+  "license": "MIT",
+  "dependencies": {
+    "detect-file-encoding-and-language": "^2.1.0"
+  }
+}
