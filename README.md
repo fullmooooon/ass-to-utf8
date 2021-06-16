@@ -1,6 +1,8 @@
 # ass-to-utf8
  Convert .ass file to utf8 format based on nodeJS
  
+ 看个视频结果它带的utf16LE的字幕文件竟然不认，写了个工具转换文件夹下的字幕文件
+ 
  # How to use
  
  确保安装NodeJS
